@@ -1119,6 +1119,7 @@
 
 		#one a {
 			color: rgba(0,0,0,0.5);
+			text-decoration: none;
 		}
 			#one a:hover {
 				color: rgba(185,0,0,0.5);
