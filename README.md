@@ -1,7 +1,9 @@
 austincv.com
 ============
 
-This is the source of the new website which will replace the old austincv.com soon
+This is the source of austincv.com
+I am going to move this to old-austincv.github.io and give a shot at blogging
+I am going to start with this https://github.com/barryclark/jekyll-now
 
 
 ##Thanks html5up.net
